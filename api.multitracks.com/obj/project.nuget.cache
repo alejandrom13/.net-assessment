@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uK6FPnnCGEbtI4keaVV08hUP34Iq7xQs6HX0BAZqDXYv36nrHPbg3WMjFPDKQnvHOv4Hx41agrDVU5c30oqceA==",
+  "dgSpecHash": "wpAaMUdwLipRURcAdNXwHc2D+DLE8x3lxwH1VXvxIbF4tKcZi1/ktl59unzP/lFy7WWgQdB7BZkGurZ0DjhX7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Alejandro\\PROJECT\\new\\.net-assessment-main\\api.multitracks.com\\api.multitracks.com.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Alejandro\\PROJECT\\new\\new\\.net-assessment-main\\api.multitracks.com\\api.multitracks.com.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
